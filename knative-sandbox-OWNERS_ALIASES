@@ -95,8 +95,7 @@ aliases:
   - matzew
   eventing-rabbitmq-approvers:
   - benmoss
-  - sbawaska
-  - vaikas
+  - salaboy
   - xtreme-sameer-vohra
   eventing-redis-approvers:
   - aavarghese
